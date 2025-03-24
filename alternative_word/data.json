@@ -1,0 +1,101 @@
+[
+  {
+    "d_h": 48,
+    "d_w": 364,
+    "d_x": 778.5,
+    "d_y": 280.078125,
+    "locators": "id",
+    "locators_val": "u_0_5_FGTGWEBCOMMA1",
+    "suggest_name": "Log in"
+  },
+  {
+    "d_h": 48,
+    "d_w": 364,
+    "d_x": 778.5,
+    "d_y": 280.078125,
+    "locators": "CSS selector",
+    "locators_val": "button#u_0_5_FGTGWEBCOMMA0",
+    "suggest_name": "Log in"
+  },
+  {
+    "d_h": 48,
+    "d_w": 364,
+    "d_x": 778.5,
+    "d_y": 280.078125,
+    "locators": "Xpath",
+    "locators_val": "//button[@value='1']",
+    "suggest_name": "Log in"
+  },
+  {
+    "d_h": 48,
+    "d_w": 364,
+    "d_x": 778.5,
+    "d_y": 280.078125,
+    "locators": "Xpath",
+    "locators_val": "//button[@class='_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51sy']",
+    "suggest_name": "Log in"
+  },
+  {
+    "d_h": 48,
+    "d_w": 364,
+    "d_x": 778.5,
+    "d_y": 280.078125,
+    "locators": "Xpath",
+    "locators_val": "//button[@name='login']",
+    "suggest_name": "Log in"
+  },
+  {
+    "d_h": 48,
+    "d_w": 364,
+    "d_x": 778.5,
+    "d_y": 280.078125,
+    "locators": "Xpath",
+    "locators_val": "//button[@data-testid='royal-login-button']",
+    "suggest_name": "Log in"
+  },
+  {
+    "d_h": 48,
+    "d_w": 364,
+    "d_x": 778.5,
+    "d_y": 280.078125,
+    "locators": "Xpath",
+    "locators_val": "//button[@type='submit']",
+    "suggest_name": "Log in"
+  },
+  {
+    "d_h": 48,
+    "d_w": 364,
+    "d_x": 778.5,
+    "d_y": 280.078125,
+    "locators": "Xpath",
+    "locators_val": "//button[@id='u_0_5_FG']",
+    "suggest_name": "Log in"
+  },
+  {
+    "d_h": 48,
+    "d_w": 364,
+    "d_x": 778.5,
+    "d_y": 280.078125,
+    "locators": "Xpath",
+    "locators_val": "//html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/form[1]/div[2]/button[1]",
+    "suggest_name": "Log in"
+  },
+  {
+    "d_h": 48,
+    "d_w": 364,
+    "d_x": 778.5,
+    "d_y": 280.078125,
+    "locators": "class",
+    "locators_val": "_42ft _4jy0 _6lth _4jy6 _4jy1 selected _51syTGWEBCOMMA1",
+    "suggest_name": "Log in"
+  },
+  {
+    "d_h": 48,
+    "d_w": 364,
+    "d_x": 778.5,
+    "d_y": 280.078125,
+    "locators": "Tag",
+    "locators_val": "buttonTGWEBCOMMA1",
+    "suggest_name": "Log in"
+  }
+]
